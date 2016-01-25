@@ -1,0 +1,25 @@
+{
+  "name": "psd_html",
+  "version": "1.0.0",
+  "description": "psd to html with sass and compass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "keywords": [
+    "psd",
+    "to",
+    "html"
+  ],
+  "author": "uzzol",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon": "^4.2.6",
+    "gulp-connect": "^2.3.1",
+    "gulp-sass": "^2.1.1"
+  }
+}

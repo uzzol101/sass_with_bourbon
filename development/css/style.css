@@ -1,0 +1,10 @@
+.test {
+  background-color: pink;
+  background-image: -webkit-linear-gradient(bottom, pink, orange);
+  background-image: linear-gradient(to top,pink, orange);
+  width: 400px;
+  height: 200px;
+  color: red;
+  font-size: 2rem;
+  line-height: 200px;
+  text-align: center; }

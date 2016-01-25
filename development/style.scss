@@ -1,0 +1,12 @@
+@import "bourbon";
+.test{
+	@include linear-gradient(to top, pink, orange);
+	width: 400px;
+	height: 200px;
+	color: red;
+	font-size: rem(32);
+	line-height: 200px;
+	text-align: center;
+	
+
+}
